@@ -1,0 +1,2 @@
+echo "# Backend Code"> backend/README.md
+echo "# Frontend Code"> frontend?/README.md
